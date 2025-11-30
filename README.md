@@ -17,3 +17,7 @@
 > loading identity: N0L4N
 > role: Front-End Engineer | SOC Analyst
 > status: VERIFIED
+
+Frontend : HTML, CSS, JS, React, Next.js, TailwindCSS
+Cyber    : Linux, SIEM, Suricata, ELK Stack, Wireshark
+Ops      : Threat Hunting, Packet Analysis, Rule Writing
