@@ -3,7 +3,7 @@
 <!-- ================================================ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=3000&center=true&vCenter=true&color=FF0000&width=600&lines=Hello+Friend.;Initializing+Fsociety+Profile...;Decrypting+Matrix+Identity...;Loading+SOC+Modules...;Access+Granted.">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C00000&width=435&lines=Hello+there.+.+.+.+;It's+Nolan" alt="Typing SVG" /></a>
 </p>
 
 <h1 align="center">> Nolan@cyberspace:~$ whoami</h1>
