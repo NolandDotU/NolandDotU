@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">> nolan@0.0.0.0:~$ whoami</h1>
-<p align="center"><b>Front-End Engineer | SOC Analyst | Cyber Defender</b></p>
+<p align="center"><b>SOC Analyst | Front-End Engineer | Cyber Defender</b></p>
 
 ---
 
@@ -11,9 +11,8 @@
 # Running boot sequence...
 > establishing secure shell...
 > loading identity: N0L4N
-> role: Front-End Engineer | SOC Analyst
+> role: SOC Analyst | Front-End Engineer
 > status: VERIFIED
 
 Frontend : HTML, CSS, JS, React, Next.js, TailwindCSS
-Cyber    : Linux, SIEM, Suricata, ELK Stack, Wireshark
-Ops      : Threat Hunting, Packet Analysis, Rule Writing
+Cybersec Analyst    : Linux, SIEM, Suricata, ELK Stack, Wireshark
