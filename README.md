@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=C00000&center=true&vCenter=true&width=435&lines=Hello+there.+.+.+.+;It's+Nolan" alt="Typing SVG" /></a>
 </p>
 
-<h1 align="center">> nolan@0.0.0.0:~$ whoami</h1>
+<h1 align="center">> nolan@30.30.14.14:~$ whoami</h1>
 <p align="center"><b>SecDevOps Engineer | Security Operations & Automation Specialist</b></p>
 
 ---
